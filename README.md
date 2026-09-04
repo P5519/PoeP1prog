@@ -12,3 +12,4 @@ The RaceDay System is important because it gives an organised efficient way to m
 Instead of keeping race information manually the system stores all the data in one central database.
 Overall the system reduces manual work, improves accuracy of the information and prevents duplicate or lost records.
 This makes the management of the race events faster and more efficient.
+User Table in sql stores organisers and participants.
