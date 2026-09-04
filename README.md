@@ -16,3 +16,4 @@ User Table in sql stores organisers and participants.
 The event table stores event information entered by the organisers.
 Category stores race categories and distance in km.
 Event Enrollment stores participants event registration on the system.
+Results are the outcome of the races so this table stores race positions and finish time of the participants.
