@@ -6,3 +6,5 @@ All in all the RaceDay System assists in organizing race events efficiently by s
 There are two users in the system and they have different roles.
 The first user is the organizer, who is responsible for managing the RaceDay system.
 They can create and manage race events, add race categories, view participants enrollments and record or update race results.
+The second user is the participant, who is a user that registers for the system to take part in race events.
+They can only view available race events and categories, enroll in a race and view their race results after the event.
