@@ -13,3 +13,4 @@ Instead of keeping race information manually the system stores all the data in o
 Overall the system reduces manual work, improves accuracy of the information and prevents duplicate or lost records.
 This makes the management of the race events faster and more efficient.
 User Table in sql stores organisers and participants.
+The event table stores event information entered by the organisers.
