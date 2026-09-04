@@ -8,3 +8,7 @@ The first user is the organizer, who is responsible for managing the RaceDay sys
 They can create and manage race events, add race categories, view participants enrollments and record or update race results.
 The second user is the participant, who is a user that registers for the system to take part in race events.
 They can only view available race events and categories, enroll in a race and view their race results after the event.
+The RaceDay System is important because it gives an organised efficient way to manage running events and participants.
+Instead of keeping race information manually the system stores all the data in one central database.
+Overall the system reduces manual work, improves accuracy of the information and prevents duplicate or lost records.
+This makes the management of the race events faster and more efficient.
