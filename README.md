@@ -18,3 +18,4 @@ Category stores race categories and distance in km.
 Event Category connects events and categories together.
 Event Enrollment stores participants event registration on the system.
 Results are the outcome of the races so this table stores race positions and finish time of the participants.
+Youtube video: https://youtu.be/kUCjiWwffGc
